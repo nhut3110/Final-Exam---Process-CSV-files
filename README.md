@@ -10,3 +10,5 @@ This is the first idea for 10 questions:
   08. Code the function to find the three longest and three shortest trip distances.
   09. Code the function to search and return number of passengers that tip drivers in three levels ( under 5$, between 5$ and 10$, above 10$)
   10. If the first day of the duration of this dataset was Monday, write a function to count number of weekdays and then draw a chart demonstrating the number of trips on each weekday.
+  
+              - Subject to change -
