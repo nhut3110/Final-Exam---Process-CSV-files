@@ -2,8 +2,8 @@
 This is the first idea for 10 questions:
   01. Import numpy, pandas, visualization libraries; read in three csv files; check the infomation of these files; create timer and include time measure for all questions below.
   02. Write your own ascending sort function and then sort these dataframes by passenger count.
-  03. Code the function to calculate how many passengers pay through the first type of payment type
-  04. Code the function to draw chart for passenger count
+  03. Code the function to calculate how many passengers pay through the first type of payment type.
+  04. Code the function to draw chart for passenger count.
   05. Draw two charts for Vendor ID and passenger count.
   06. Code function to find min, max, mean of the cost for 1 trips.
   07. Code the function to count how many trips that drop off at the midnight (11 PM to 1 AM).
