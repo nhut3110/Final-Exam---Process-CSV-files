@@ -1,14 +1,22 @@
 # Final-Exam---Process-CSV-files
-This is the first idea for 10 questions:
-  01. Import numpy, pandas, visualization libraries; read in three csv files; check the infomation of these files; create timer and include time measure for all questions below.
-  02. Write your own ascending sort function and then sort these dataframes by passenger count.
-  03. Code the function to calculate how many passengers pay through the first type of payment type.
-  04. Code the function to draw chart for passenger count.
-  05. Draw two charts for Vendor ID and passenger count.
-  06. Code function to find min, max, mean of the cost for 1 trips.
-  07. Code the function to count how many trips that drop off at the midnight (11 PM to 1 AM).
-  08. Code the function to find the three longest and three shortest trip distances.
-  09. Code the function to search and return number of passengers that tip drivers in three levels ( under 5$, between 5$ and 10$, above 10$)
-  10. If the first day of the duration of this dataset was Monday, write a function to count number of weekdays and then draw a chart demonstrating the number of trips on each weekday.
+Part I. Data and Setup 
+  1.	Import numpy, pandas, visualization libraries
+  2.	Create timer and include time measure for all questions from Part II.
+  3.	Read in three csv files and print first five lines of each of them.
+
+Part II. Basic Questions
+  4.	Code the function to calculate how many passengers pay through each type of payment types.
+  5.	Code function to find min, max, mean of the cost for 1 trips on the given day of the specific month (only use the dropoff time).
+  6.	Code the function to count how many trips that drop off at the midnight (11 PM to 1 AM) on the given day of the specific month.
+
+Part III. Sort algorithm
+  7.	Write your own ascending sort function and sort values in fare_amount column on the given day of the specific month then display the negative amount payment and count how many values under 10$
+
+Part IV. Search algorithm 
+  8.	Code the function to search and return number of passengers that tip drivers in four levels (no tips, under 3$, between 3$ and 5$, above 5$) and display the highest tip amount.
+  9.	Code the function to find the three longest trips (longest durations) on the given day of the specific month and calculate their average velocity (km/h).
+
+Part V. Draw chart 
+  10.	 If the first day of the duration of this dataset was Monday, write a function to count number of trips on each weekday and then draw a chart to demonstrate them.
   
               - Subject to change -
