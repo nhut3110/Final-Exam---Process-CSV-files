@@ -67,16 +67,13 @@ Pandas:
 <a name="da"></a>
 ## Data:
 
-In this project, we used 50 photos-this is the student result in the answer sheet. You can find it in folder "Student".
+In this project, we will process CSV files in three different levels which are small, medium and large.
 
-Example data:
+Small File: 10.000 lines
 
+Medium File: 1.000.000 lines
 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/HarryxDD/OpticalMarkRecognition/blob/main/student/2000101_NguyenVanAn_3A.png"> 
-</p>
-
-With these datas, we compares the students' answers with the our answer to find the students' result. Our anwser in folder "answer".
+Large File: 23.000.000 lines
 
 <a name="us"></a>
 
