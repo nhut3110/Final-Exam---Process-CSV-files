@@ -13,17 +13,17 @@
   
 
 #### Table of contents:
-I. [ About the project. ](#pro)
-II. [ Built with. ](#tech)
-III. [ Getting started. ](#get)
+ [ I. About the project. ](#pro)
+ [ II. Built with. ](#tech)
+ [ III. Getting started. ](#get)
 
     1.[ Installation. ](#desc) 
    
     2.[ Data. ](#da)
    
-IV. [ Questions. ](#us) 
-V. [ Instructors. ](#in)
-VI. [ Contact. ](#con)
+ [ IV. Questions. ](#us) 
+ [ V. Instructors. ](#in)
+ [ VI. Contact. ](#con)
 
 <a name="pro"></a>
 # I. About the project:
