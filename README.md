@@ -19,9 +19,9 @@
  
  [ III. Getting started. ](#get)
 
-    1.[ Installation. ](#desc) 
+   [ 1. Installation. ](#desc) 
    
-    2.[ Data. ](#da)
+   [ 2. Data. ](#da)
    
  [ IV. Questions. ](#us) 
  
@@ -32,14 +32,22 @@
 <a name="pro"></a>
 # I. About the project:
 
-// add later
+This project is a final project for Introduction to Computer Science class.
+
+> In this project, I aim to:
+  + Read different CSV files
+  + Brainstorm questions and problems that need to solve through CSV files
+  + Research and program to solve these problems
+  + Fix bugs and improve code
+> This project only work for the three given CSV files linked below.
+> Make sure you read everything below and you can contact me if you have any questions or feedback.
 
 <a name="tech"></a>
 ## II. Built with: 
 
 
--  Python
--  Visual Studio
+-  Python 3.9
+-  Visual Studio Code
 -  Github
 
 <a name="get"></a>
@@ -71,9 +79,9 @@ In this project, we will process CSV files in three different levels which are s
 
 | File | Description |
 | ------:| -----------:|
-| Small File   |  10.000 lines|
+| Small File  |  10.000 lines|
 | Medium File |  1.000.000 lines |
-| Large File:    |  23.000.000 lines |
+| Large File  |  23.000.000 lines |
 
 You can download three CSV files from [Google Drive](https://drive.google.com/drive/folders/1ahXRcYFtZsIjejRV7jhZSPIIYvZuTpMY?usp=sharing).
 
@@ -99,17 +107,17 @@ Part II. Basic Questions
 
 Part III. Sort algorithm
 
-    7. Write your own ascending sort function and sort values in fare_amount column on the given day of the specific month then display the negative amount payment and count            how many values under 10$.
+    7. Write your own ascending sort function and sort values in fare_amount column on the given day of the specific month then display the negative amount payment and count how many values under 10$.
 
 Part IV. Search algorithm 
 
-    8. Code the function to search and return number of passengers that tip drivers in four levels (no tips, under 3$, between 3$ and 5$, above 5$) and display the highest tip          amount.
+    8. Code the function to search and return number of passengers that tip drivers in four levels (no tips, under 3$, between 3$ and 5$, above 5$) and display the highest tip amount.
 
     9. Code the function tofind the three longest trips (longest durations) on the given day of the specific month and calculate their average velocity (m/s).
 
 Part V. Draw chart 
 
-    10. If the first day of the duration of this dataset (only use the dropoff time) was Monday, write a function to count number of trips on each weekday and then draw a chart         to demonstrate them.
+    10. If the first day of the duration of this dataset (only use the dropoff time) was Monday, write a function to count number of trips on each weekday and then draw a chart to demonstrate them.
 
 ```
 
