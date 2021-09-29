@@ -44,10 +44,10 @@
 <a name="desc"></a>
 ## Installation:
 
-Opencv:
+Matplotlib.pyplot:
    
-       pip install opencv-python
-       conda install opencv (if you use conda)
+       pip install matplotlib.pyplot
+       conda install matplotlib.pyplot (if you use conda)
        
 Numpy:
  
@@ -59,10 +59,6 @@ Pandas:
         pip install pandas
         conda install pandas (if you use conda)
         
-Regex:
-   
-        pip install regex
-        conda install regex (if you use conda)
         
 
 
